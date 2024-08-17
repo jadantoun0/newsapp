@@ -49,12 +49,12 @@ The Flutter News App is a lightweight news reader application that allows users 
 
 Watch a video demo of the Flutter News App in action:
 
-[Click here to watch the demo video](https://onedrive.live.com/?cid=YOUR_CID&resid=YOUR_RESID&authkey=YOUR_AUTHKEY)
+[Click here to watch the demo video](https://photos.onedrive.com/share/C41970090B533D1E!4293?cid=C41970090B533D1E&resId=C41970090B533D1E!4293&authkey=!AIWAzrlgrgOCnq8&ithint=video)
 
 If the link above doesn’t work, copy and paste the following URL into your browser:
 
 ```
-https://onedrive.live.com/?cid=YOUR_CID&resid=YOUR_RESID&authkey=YOUR_AUTHKEY
+[https://onedrive.live.com/?cid=YOUR_CID&resid=YOUR_RESID&authkey=YOUR_AUTHKEY](https://photos.onedrive.com/share/C41970090B533D1E!4293?cid=C41970090B533D1E&resId=C41970090B533D1E!4293&authkey=!AIWAzrlgrgOCnq8&ithint=video)
 ```
 
 
