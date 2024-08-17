@@ -10,7 +10,6 @@ class HomeProvider extends ChangeNotifier {
   String error = "";
 
   Future fetchHomePage() async {
-    // if fetched, dont fetch
     try {
       List<ArticleModel> newArticles =
           await ArticleService.getArticles(limit: limit);
