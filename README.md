@@ -15,10 +15,8 @@ To run this project on your local machine, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/flutter-news-app.git
+   git clone https://github.com/jadantoun0/flutter-news-app.git
    cd flutter-news-app
-
-   ### Install dependencies:
 
 2. Navigate to the project directory and run:
 
